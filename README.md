@@ -5,6 +5,8 @@ These are simple board files for a PCB and a panel for a small analog 2HP Eurora
 Just print yourself some PCB's and add the parts then adjust the trimmer while you connect the outputs to an oscilloscope to calibrate. 
 Note, if the pot isn't adjusted right, the circuit won't run properly. Don't be scared if it doesn't cycle intiailly. It needs calibration.
 
+One more note and it's a big one. BE SURE TO PAY SPECIAL ATTENTION TO THE VALUES OF THE POTENTIOMETERS. YOU HAVE BEEN WARNED! 
+
 You may change C1 and C5 to adjust the LFO rates that are selectable via the switch. 
 Enjoy!
 -Casey
