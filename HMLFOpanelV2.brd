@@ -3,10 +3,10 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.025" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="0.01" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -220,10 +220,10 @@
 <circle x="5.08" y="112.395" radius="5.97035" width="0.508" layer="25"/>
 <circle x="5.08" y="112.395" radius="6.989615625" width="0.508" layer="25"/>
 <circle x="5.08" y="112.395" radius="8.005028125" width="0.508" layer="25"/>
-<text x="1.27" y="100.33" size="1.778" layer="25" ratio="31">SKEW</text>
-<text x="1.905" y="73.025" size="1.778" layer="25" ratio="31">RATE</text>
-<text x="1.27" y="66.675" size="1.778" layer="25" ratio="31">SLOW</text>
-<text x="1.905" y="51.435" size="1.778" layer="25" ratio="31">FAST</text>
+<text x="2.032" y="100.33" size="1.778" layer="25" ratio="31">SKEW</text>
+<text x="2.159" y="73.025" size="1.778" layer="25" ratio="31">RATE</text>
+<text x="2.032" y="66.675" size="1.778" layer="25" ratio="31">SLOW</text>
+<text x="2.413" y="51.435" size="1.778" layer="25" ratio="31">FAST</text>
 <wire x1="5.08" y1="102.87" x2="5.08" y2="104.14" width="0.508" layer="25"/>
 <wire x1="5.08" y1="75.565" x2="5.08" y2="76.835" width="0.508" layer="25"/>
 <wire x1="5.08" y1="53.975" x2="5.08" y2="55.245" width="0.508" layer="25"/>
@@ -236,7 +236,7 @@
 <wire x1="2.54" y1="35.56" x2="1.905" y2="34.925" width="0.508" layer="25"/>
 <wire x1="7.62" y1="35.56" x2="8.255" y2="34.925" width="0.508" layer="25"/>
 <text x="3.175" y="8.89" size="1.778" layer="25" ratio="31">TRI</text>
-<text x="2.54" y="22.225" size="1.778" layer="25" ratio="31">SQR</text>
+<text x="2.794" y="22.225" size="1.778" layer="25" ratio="31">SQR</text>
 <text x="5.08" y="0.635" size="1.778" layer="25" ratio="31">H.M.</text>
 <text x="8.89" y="57.15" size="1.778" layer="26" ratio="31" rot="MR270">Holmes Modular</text>
 <text x="3.175" y="56.515" size="1.778" layer="26" ratio="31" rot="MR270">CJH 1/18/23 v1</text>
