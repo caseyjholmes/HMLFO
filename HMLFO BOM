@@ -1,0 +1,20 @@
+C1,C3,C4   100n            C-USC0603K                C0603K               CAPACITOR, American symbol                                                                                                                                                                    
+C5   10uf                  C-USC0805K                C0805K               CAPACITOR, American symbol    
+R1   100k                  R-US_R0603                R0603                RESISTOR, American symbol                                                                                  
+R2   220                   R-US_R0603                R0603                RESISTOR, American symbol                                                                                  
+R5,R6   47k                R-US_R0603                R0603                RESISTOR, American symbol                                                                                                                                                                   
+R7   1k                    R-US_R0603                R0603                RESISTOR, American symbol                                                                             
+D1,D2   1N4148             DIODE SOD-323             SOD-323F             Diode                                                                                                                                                                                                               
+D3   3mm LED               LED3MM                    LED_3MM              adjust R2 to suit brightness of LED you chose                                                                                                                                                                                                                                                                                                                                                                             
+SW1  SPDT-ON-OFF-ON        SPDT-ON-OFF-ON            *Blue MTS-102 siwtches on ebay with nubs filed down                                                                                                                    
+T1   mmbt3904              MMBT3904LT1               SOT23                NPN Transistror                                                                                               
+U1   TL072CD               TL072CD                   SOIC-8               Generic Dual Op Amp  
+B1   MB1S                  MB1S                      SOIC-4               Bridge Rectifier (PSI EITHER WAY POWER)                                                                                                                                                                              
+VR1  50k                   BOURNS trimmer            *BOURNS top adjust 50K single turn trimmer 3 pin                                                                                                  
+VR3  A1M                   9MM_SNAP-IN_POT_          *9MM_SNAP-IN_POT      9mm vertical snap-in pot, Alpha / Panasonic style                                                             
+VR4  A100K                 9MM_SNAP-IN_POT_          *9MM_SNAP-IN_POT      9mm vertical snap-in pot, Alpha / Panasonic style    
+J1,J2   THONKICONNNEW      THONKICONNNEW             WQP-PJ301M-12_JACK   3.5mm socket for Eurorack modular synths  
+J3     5 x 2 pin header    10 PIN HEADER             2 x 5 rows  
+
+Adjust VR1 while outputs are scoped for 5 or 10v waveforms  
+-Casey 1/23/23                                         
