@@ -11,8 +11,8 @@ T1   mmbt3904              MMBT3904LT1               SOT23                NPN Tr
 U1   TL072CD               TL072CD                   SOIC-8               Generic Dual Op Amp  
 B1   MB1S                  MB1S                      SOIC-4               Bridge Rectifier (PSI EITHER WAY POWER)                                                                                                                                                                              
 VR1  50k                   BOURNS trimmer            *BOURNS top adjust 50K single turn trimmer 3 pin                                                                                                  
-VR3  A1M                   9MM_SNAP-IN_POT_          *9MM_SNAP-IN_POT      9mm vertical snap-in pot, Alpha / Panasonic style                                                             
-VR4  A100K                 9MM_SNAP-IN_POT_          *9MM_SNAP-IN_POT      9mm vertical snap-in pot, Alpha / Panasonic style    
+VR3  B1M                   9MM_SNAP-IN_POT_          *9MM_SNAP-IN_POT      9mm vertical snap-in pot, Alpha / Panasonic style                                                             
+VR4  B100K                 9MM_SNAP-IN_POT_          *9MM_SNAP-IN_POT      9mm vertical snap-in pot, Alpha / Panasonic style    
 J1,J2   THONKICONNNEW      THONKICONNNEW             WQP-PJ301M-12_JACK   3.5mm socket for Eurorack modular synths  
 J3     5 x 2 pin header    10 PIN HEADER             2 x 5 rows  
 
